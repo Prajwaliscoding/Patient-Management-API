@@ -1,0 +1,46 @@
+{"POO1": {
+          "name":"Prajwal Khatiwada",
+          "city":"Kathmandu",
+          "age":"19",
+          "gender":"Male",
+          "height":"1.73",
+          "weight":"70",
+          "verdict":"overweight"
+         },
+"P002":{
+          "name":"Prayas Paneru",
+          "city":"Gorkha",
+          "age":"20",
+          "gender":"Male",
+          "height":"1.68",
+          "weight":"57",
+          "verdict":"underweight"
+         },
+"P003":{
+          "name":"Bishnu Karki",
+          "city":"Dolakha",
+          "age":"21",
+          "gender":"Male",
+          "height":"1.70",
+          "weight":"62",
+          "verdict":"extremely fit"
+         },
+"P004":{
+          "name":"Bidhan Bidari",
+          "city":"Kathmandu",
+          "age":"20",
+          "gender":"Male",
+          "height":"1.76",
+          "weight":"65",
+          "verdict":"fit"
+         },
+"P005":{
+          "name":"Nirmal Khadka",
+          "city":"Dolakha",
+          "age":"20",
+          "gender":"Male",
+          "height":"1.71",
+          "weight":"93",
+          "verdict":"obese"
+         }
+}

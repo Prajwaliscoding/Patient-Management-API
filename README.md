@@ -1,4 +1,4 @@
-# 🏥 Patient Management System APId
+# 🏥 Patient Management System API
 
 This is a FastAPI-based project for managing patient records including details like name, age, gender, height, weight, and city. It supports full CRUD operations and also includes BMI computation and patient verdicts.
 
